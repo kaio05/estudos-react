@@ -4,6 +4,7 @@ import Empresa from './pages/Empresa'
 import Contato from './pages/Contato'
 import Navegacao from './layout/Navegacao'
 import Footer from './layout/Footer'
+import styles from './App.css'
 
 function App() {
 
